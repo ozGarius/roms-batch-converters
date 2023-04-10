@@ -1,0 +1,1 @@
+@%~dp0chdman\chdman.0.248.exe %*
